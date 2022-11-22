@@ -1,0 +1,86 @@
+html {
+  scroll-behavior: smooth;
+}
+
+header {
+  font-family: 'Roboto', sans-serif;
+  background: rgb(255, 255, 255);
+  background: linear-gradient(
+    90deg,
+    rgba(255, 255, 255, 1) 0%,
+    rgba(240, 253, 255, 1) 100%
+  );
+}
+
+section {
+  font-family: 'Work Sans', sans-serif;
+}
+
+footer {
+  font-family: 'Roboto', sans-serif;
+}
+
+a.link_header {
+  color: black;
+}
+
+.link_drop {
+  padding-top: 8px;
+  background: transparent;
+  color: black;
+  border: none;
+}
+.link_drop:hover {
+  color: black;
+  background: none;
+}
+
+.link_drop:active {
+  color: black;
+  background: none;
+}
+
+.link_drop:visited {
+  color: black;
+  background: none;
+}
+
+.link_card {
+  color: royalblue;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+.link_card:hover {
+  color: red;
+}
+
+.card {
+  margin-bottom: 30px;
+}
+
+.img_card {
+  width: 285px;
+  height: 190px;
+}
+
+.footer01 {
+  margin-right: 20px;
+}
+
+.footer02 {
+  margin-left: 60px;
+  margin-top: 40px;
+}
+
+.footer03 {
+  padding-left: 60px;
+  margin-top: 40px;
+}
+
+@media (max-width: 575.98px) {
+  .custom-class {
+    height: 250px;
+  }
+}
+
