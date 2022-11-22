@@ -1,5 +1,3 @@
-
-
 let pisos = [];
 
 let current_page = 1;
@@ -45,10 +43,14 @@ function generarCard(pisos, page) {
   let btn_prev = document.getElementById("btn_prev");
   let listing_table = document.getElementById("TableList");
   let page_span = document.getElementById("page");
-  if (page < 1) page = 1;
-  if (page > totNumPages(pisos)) page = totNumPages(pisos);
+  if (page < 1) {
+    page = 1;
+  }
+  if (page > totNumPages(pisos)) {
+    page = totNumPages(pisos);
+  }
   listing_table.innerHTML = "";
-  console.log(pisos)
+  console.log(pisos);
   for (let i = (page - 1) * obj_per_page; i < page * obj_per_page; i++) {
     listing_table.innerHTML += `<div class="col">
           <div class="card" style="width: 18rem">
