@@ -3,7 +3,7 @@ html {
 }
 
 header {
-  font-family: 'Roboto', sans-serif;
+  font-family: "Roboto", sans-serif;
   background: rgb(255, 255, 255);
   background: linear-gradient(
     90deg,
@@ -13,11 +13,11 @@ header {
 }
 
 section {
-  font-family: 'Work Sans', sans-serif;
+  font-family: "Work Sans", sans-serif;
 }
 
 footer {
-  font-family: 'Roboto', sans-serif;
+  font-family: "Roboto", sans-serif;
 }
 
 a.link_header {
@@ -59,6 +59,30 @@ a.link_header {
   margin-bottom: 30px;
 }
 
+.custom_btn {
+  background-color: rgba(244, 253, 255, 255);
+  color: black;
+  font-weight: bolder;
+}
+
+.custom_center_btn {
+  background-color: rgba(244, 253, 255, 255);
+  color: black;
+  font-weight: bolder;
+}
+
+.custom_center_btn:hover {
+  background-color: none;
+  background: none;
+  color: none;
+}
+
+.custom_btn:hover {
+  background-color: lightgrey;
+  color: royalblue;
+  font-weight: bolder;
+}
+
 .img_card {
   width: 285px;
   height: 190px;
@@ -84,3 +108,46 @@ a.link_header {
   }
 }
 
+ul,
+ol {
+  list-style: none;
+}
+
+.nav > li {
+  float: left;
+}
+
+.nav li a {
+  background-color: rgba(244, 253, 255, 255);
+  text-decoration: none;
+  padding: 10px 12px;
+  display: flex;
+  position: relative;
+}
+
+.nav li a:hover {
+  background-color: lightgray;
+}
+
+.nav li ul {
+  display: none;
+  position: absolute;
+  min-width: 140px;
+}
+
+.nav li:hover > ul {
+  display: block;
+}
+
+.nav li ul li {
+  position: relative;
+}
+
+.nav li ul li ul {
+  right: -100px;
+  top: 0px;
+}
+
+.dropdown-toggle::after {
+  margin-top: 12px;
+}
