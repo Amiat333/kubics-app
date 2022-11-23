@@ -18,66 +18,120 @@
 </head>
 
 <body class="bg-light">
-  <header class="d-flex flex-wrap justify-content-center py-3 mb-4 border-bottom bg-light">
+  <header class="d-flex flex-wrap py-3 mb-4 border-bottom bg-light">
+    <nav class="menu_mobile">
+      <input type="checkbox" id="menu">
+      <label for="menu"> <i class="fa-solid fa-bars"></i> </label>
+      <ul class="nav menu_ul">
+        <div class="col-sm">
+          <li class="nav-item">
+            <a href="https://kubics.es/" class="nav-link link_header">Inicio</a>
+          </li>
+        </div>
+        <div class="col-sm">
+          <li class="nav-item">
+            <a href="https://kubics.es/propiedad-tipo/piso/#" class="nav-link link_header">Alquileres</a>
+          </li>
+        </div>
+        <div class="col-sm">
+          <li class="nav-item">
+            <a href="https://kubics.es/index/promociones/" class="nav-link link_header">Promociones</a>
+          </li>
+        </div>
+        <div class="col-sm">
+          <li class="nav-item">
+            <a href="https://kubics.es/index/contacto/" class="nav-link link_header">Contactos</a>
+          </li>
+        </div>
+        <div class="header col-sm">
+
+          <li><a class="dropdown-toggle link_drop" href="https://kubics.es/index/ventas/" role="button"
+              aria-expanded="false">
+              Ventas
+            </a></li>
+
+          <li><a class="dropdown-item dropdown-toggle link_drop" role="button" aria-expanded="false"
+              href="https://kubics.es/propiedad-tipo/terreno/">Terreno</a></li>
+
+          <li><a class="dropdown-item link_drop" href="https://kubics.es/propiedad-tipo/edificable/">Edificable</a></li>
+          <li><a class="dropdown-item link_drop" href="https://kubics.es/propiedad-tipo/urbano/">Urbano</a>
+          </li>
+          <li><a class="dropdown-item dropdown-toggle link_drop" role="button" aria-expanded="true"
+              href="https://kubics.es/propiedad-tipo/vivienda/">Vivienda</a></li>
+
+          <li><a class="dropdown-item link_drop" href="https://kubics.es/propiedad-tipo/chalet/">Chalet</a>
+          </li>
+          <li><a class="dropdown-item link_drop" href="https://kubics.es/propiedad-tipo/villa/">Villa</a>
+          </li>
+          <li><a class="dropdown-item link_drop" href="https://kubics.es/propiedad-tipo/piso//">Piso</a>
+          </li>
+        </div>
+      </ul>
+    </nav>
+
     <a href="#" class="d-flex align-items-center mb-3 mb-md-0 me-md-auto text-dark text-decoration-none">
       <img src="./assets/img/Logo-Horizontal-web-black-1.png" alt="KuBics" width="200px" height="80px" />
     </a>
 
-    <ul class="nav nav-pills">
-      <div class="col-sm">
-        <li class="nav-item">
-          <a href="https://kubics.es/" class="nav-link link_header">Inicio</a>
-        </li>
-      </div>
-
-      <div class="header col-sm">
-        <ul class="nav">
-          <li><a class="dropdown-toggle link_drop" href="https://kubics.es/index/ventas/" role="button"
-              aria-expanded="false">
-              Ventas
-            </a>
-            <ul>
-              <li><a class="dropdown-item dropdown-toggle link_drop" role="button" aria-expanded="false"
-                  href="https://kubics.es/propiedad-tipo/terreno/">Terreno</a>
-                <ul>
-                  <li><a class="dropdown-item link_drop"
-                      href="https://kubics.es/propiedad-tipo/edificable/">Edificable</a></li>
-                  <li><a class="dropdown-item link_drop" href="https://kubics.es/propiedad-tipo/urbano/">Urbano</a>
-                  </li>
-                </ul>
-              </li>
-
-              <li><a class="dropdown-item dropdown-toggle link_drop" role="button" aria-expanded="true"
-                  href="https://kubics.es/propiedad-tipo/vivienda/">Vivienda</a>
-                <ul>
-                  <li><a class="dropdown-item link_drop" href="https://kubics.es/propiedad-tipo/chalet/">Chalet</a>
-                  </li>
-                  <li><a class="dropdown-item link_drop" href="https://kubics.es/propiedad-tipo/villa/">Villa</a>
-                  </li>
-                  <li><a class="dropdown-item link_drop" href="https://kubics.es/propiedad-tipo/piso//">Piso</a>
-                  </li>
-                </ul>
-              </li>
-            </ul>
+    <div class="menu_desktop">
+      <ul class="nav nav-pills">
+        <div class="col-sm">
+          <li class="nav-item">
+            <a href="https://kubics.es/" class="nav-link link_header">Inicio</a>
           </li>
-        </ul>
-      </div>
-      <div class="col-sm">
-        <li class="nav-item">
-          <a href="https://kubics.es/propiedad-tipo/piso/#" class="nav-link link_header">Alquileres</a>
-        </li>
-      </div>
-      <div class="col-sm">
-        <li class="nav-item">
-          <a href="https://kubics.es/index/promociones/" class="nav-link link_header">Promociones</a>
-        </li>
-      </div>
-      <div class="col-sm">
-        <li class="nav-item">
-          <a href="https://kubics.es/index/contacto/" class="nav-link link_header">Contactos</a>
-        </li>
-      </div>
-    </ul>
+        </div>
+
+        <div class="header col-sm">
+          <ul class="nav">
+            <li><a class="dropdown-toggle link_drop" href="https://kubics.es/index/ventas/" role="button"
+                aria-expanded="false">
+                Ventas
+              </a>
+              <ul>
+                <li><a class="dropdown-item dropdown-toggle link_drop" role="button" aria-expanded="false"
+                    href="https://kubics.es/propiedad-tipo/terreno/">Terreno</a>
+                  <ul>
+                    <li><a class="dropdown-item link_drop"
+                        href="https://kubics.es/propiedad-tipo/edificable/">Edificable</a></li>
+                    <li><a class="dropdown-item link_drop" href="https://kubics.es/propiedad-tipo/urbano/">Urbano</a>
+                    </li>
+                  </ul>
+                </li>
+
+                <li><a class="dropdown-item dropdown-toggle link_drop" role="button" aria-expanded="true"
+                    href="https://kubics.es/propiedad-tipo/vivienda/">Vivienda</a>
+                  <ul>
+                    <li><a class="dropdown-item link_drop" href="https://kubics.es/propiedad-tipo/chalet/">Chalet</a>
+                    </li>
+                    <li><a class="dropdown-item link_drop" href="https://kubics.es/propiedad-tipo/villa/">Villa</a>
+                    </li>
+                    <li><a class="dropdown-item link_drop" href="https://kubics.es/propiedad-tipo/piso//">Piso</a>
+                    </li>
+                  </ul>
+                </li>
+              </ul>
+            </li>
+          </ul>
+        </div>
+        <div class="col-sm">
+          <li class="nav-item">
+            <a href="https://kubics.es/propiedad-tipo/piso/#" class="nav-link link_header">Alquileres</a>
+          </li>
+        </div>
+        <div class="col-sm">
+          <li class="nav-item">
+            <a href="https://kubics.es/index/promociones/" class="nav-link link_header">Promociones</a>
+          </li>
+        </div>
+        <div class="col-sm">
+          <li class="nav-item">
+            <a href="https://kubics.es/index/contacto/" class="nav-link link_header">Contactos</a>
+          </li>
+        </div>
+      </ul>
+    </div>
+
+
   </header>
 
   <section>

@@ -10,6 +10,7 @@ header {
     rgba(255, 255, 255, 1) 0%,
     rgba(240, 253, 255, 1) 100%
   );
+  justify-content: end;
 }
 
 section {
@@ -22,6 +23,12 @@ footer {
 
 a.link_header {
   color: black;
+}
+
+.link_header:hover {
+  background-color: none;
+  color: none;
+
 }
 
 .link_drop {
@@ -57,6 +64,7 @@ a.link_header {
 
 .card {
   margin-bottom: 30px;
+  margin-left: 15px;
 }
 
 .custom_btn {
@@ -102,9 +110,24 @@ a.link_header {
   margin-top: 40px;
 }
 
+@media (min-width: 575.98px) {
+  .menu_desktop {
+    display: block;
+  }
+  .menu_mobile {
+    display: none;
+  }
+}
+
 @media (max-width: 575.98px) {
-  .custom-class {
-    height: 250px;
+  .menu_desktop {
+    display: none;
+  }
+  .menu_mobile {
+    display: block;
+    position: absolute;
+    left: 15px;
+    top: 40px;
   }
 }
 
@@ -126,7 +149,8 @@ ol {
 }
 
 .nav li a:hover {
-  background-color: lightgray;
+  background-color: rgba(244, 253, 255, 255);
+  color: blue;
 }
 
 .nav li ul {
@@ -150,4 +174,29 @@ ol {
 
 .dropdown-toggle::after {
   margin-top: 12px;
+}
+
+.menu_ul{
+  display: none;
+}
+
+input:checked  ~ ul{
+  display:block;
+}
+
+input {
+  display: none;
+}
+
+label {
+  box-sizing: border-box;
+  display: inline-block;
+  border: 1px solid black;
+  border-radius: 5px;
+  width: 30px;
+  height: 30px;
+  line-height: 30px;
+  font-weight: bold;
+  text-align: center;
+  user-select: none;
 }
