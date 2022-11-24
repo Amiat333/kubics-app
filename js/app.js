@@ -1,5 +1,4 @@
 let pisos = [];
-
 let current_page = 1;
 let obj_per_page = 12;
 function totNumPages(obj) {
