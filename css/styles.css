@@ -201,3 +201,20 @@ label {
   text-align: center;
   user-select: none;
 }
+
+#whatsapp {
+  position: fixed;
+  bottom: 20px;
+  right:20px;
+}
+
+svg {
+  filter: drop-shadow(0 1px 4px rgba(0,0,0,.4));
+}
+
+circle {
+  fill: #25d366;
+}
+path {
+  fill: #fff;
+}
