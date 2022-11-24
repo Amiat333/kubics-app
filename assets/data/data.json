@@ -1,7 +1,7 @@
 [
     {
         "img": "./assets/img/Vista-de-Santa-Cruz.png",
-        "precio": "12000",
+        "precio": "80.000",
         "direccion": "Barrio Salamanca<br> Santa Cruz de Tenerife",
         "m2": "120 ",
         "habitaciones": "4",
@@ -10,7 +10,43 @@
     },
     {
         "img": "./assets/img/Vista-de-Santa-Cruz.png",
-        "precio": "12000",
+        "precio": "80.000",
+        "direccion": "Calle X<br> Y",
+        "m2": "120 ",
+        "habitaciones": "4",
+        "banos": "2",
+        "contacto": "https://kubics.es/agente/david-febles/"
+    },
+    {
+        "img": "./assets/img/Vista-de-San-Cristobal-Laguna.png",
+        "precio": "80.000",
+        "direccion": "Calle X<br> Y",
+        "m2": "120 ",
+        "habitaciones": "4",
+        "banos": "2",
+        "contacto": "https://kubics.es/agente/david-febles/"
+    },
+    {
+        "img": "./assets/img/vistas-al-puerto-de-la-cruz.png",
+        "precio": "80.000",
+        "direccion": "Calle X<br> Y",
+        "m2": "120 ",
+        "habitaciones": "4",
+        "banos": "2",
+        "contacto": "https://kubics.es/agente/david-febles/"
+    },
+    {
+        "img": "./assets/img/vistas-de-la-orotava.png",
+        "precio": "80.000",
+        "direccion": "Calle X<br> Y",
+        "m2": "120 ",
+        "habitaciones": "4",
+        "banos": "2",
+        "contacto": "https://kubics.es/agente/david-febles/"
+    },
+    {
+        "img": "",
+        "precio": "80.000",
         "direccion": "Calle X<br> Y",
         "m2": "120 ",
         "habitaciones": "4",
@@ -19,7 +55,43 @@
     },
     {
         "img": "./assets/img/Vista-de-Santa-Cruz.png",
-        "precio": "12000",
+        "precio": "80.000",
+        "direccion": "Calle X<br> Y",
+        "m2": "120 ",
+        "habitaciones": "4",
+        "banos": "2",
+        "contacto": "https://kubics.es/agente/david-febles/"
+    },
+    {
+        "img": "./assets/img/Vista-de-San-Cristobal-Laguna.png",
+        "precio": "80.000",
+        "direccion": "Calle X<br> Y",
+        "m2": "120 ",
+        "habitaciones": "4",
+        "banos": "2",
+        "contacto": "https://kubics.es/agente/david-febles/"
+    },
+    {
+        "img": "./assets/img/vistas-al-puerto-de-la-cruz.png",
+        "precio": "80.000",
+        "direccion": "Calle X<br> Y",
+        "m2": "120 ",
+        "habitaciones": "4",
+        "banos": "2",
+        "contacto": "https://kubics.es/agente/david-febles/"
+    },
+    {
+        "img": "./assets/img/vistas-de-la-orotava.png",
+        "precio": "80.000",
+        "direccion": "Calle X<br> Y",
+        "m2": "120 ",
+        "habitaciones": "4",
+        "banos": "2",
+        "contacto": "https://kubics.es/agente/david-febles/"
+    },
+    {
+        "img": "",
+        "precio": "80.000",
         "direccion": "Calle X<br> Y",
         "m2": "120 ",
         "habitaciones": "4",
@@ -28,7 +100,43 @@
     },
     {
         "img": "./assets/img/Vista-de-Santa-Cruz.png",
-        "precio": "12000",
+        "precio": "80.000",
+        "direccion": "Calle X<br> Y",
+        "m2": "120 ",
+        "habitaciones": "4",
+        "banos": "2",
+        "contacto": "https://kubics.es/agente/david-febles/"
+    },
+    {
+        "img": "./assets/img/Vista-de-San-Cristobal-Laguna.png",
+        "precio": "80.000",
+        "direccion": "Calle X<br> Y",
+        "m2": "120 ",
+        "habitaciones": "4",
+        "banos": "2",
+        "contacto": "https://kubics.es/agente/david-febles/"
+    },
+    {
+        "img": "./assets/img/vistas-al-puerto-de-la-cruz.png",
+        "precio": "80.000",
+        "direccion": "Calle X<br> Y",
+        "m2": "120 ",
+        "habitaciones": "4",
+        "banos": "2",
+        "contacto": "https://kubics.es/agente/david-febles/"
+    },
+    {
+        "img": "./assets/img/vistas-de-la-orotava.png",
+        "precio": "80.000",
+        "direccion": "Calle X<br> Y",
+        "m2": "120 ",
+        "habitaciones": "4",
+        "banos": "2",
+        "contacto": "https://kubics.es/agente/david-febles/"
+    },
+    {
+        "img": "",
+        "precio": "80.000",
         "direccion": "Calle X<br> Y",
         "m2": "120 ",
         "habitaciones": "4",
@@ -37,7 +145,43 @@
     },
     {
         "img": "./assets/img/Vista-de-Santa-Cruz.png",
-        "precio": "12000",
+        "precio": "80.000",
+        "direccion": "Calle X<br> Y",
+        "m2": "120 ",
+        "habitaciones": "4",
+        "banos": "2",
+        "contacto": "https://kubics.es/agente/david-febles/"
+    },
+    {
+        "img": "./assets/img/Vista-de-San-Cristobal-Laguna.png",
+        "precio": "80.000",
+        "direccion": "Calle X<br> Y",
+        "m2": "120 ",
+        "habitaciones": "4",
+        "banos": "2",
+        "contacto": "https://kubics.es/agente/david-febles/"
+    },
+    {
+        "img": "./assets/img/vistas-al-puerto-de-la-cruz.png",
+        "precio": "80.000",
+        "direccion": "Calle X<br> Y",
+        "m2": "120 ",
+        "habitaciones": "4",
+        "banos": "2",
+        "contacto": "https://kubics.es/agente/david-febles/"
+    },
+    {
+        "img": "./assets/img/vistas-de-la-orotava.png",
+        "precio": "80.000",
+        "direccion": "Calle X<br> Y",
+        "m2": "120 ",
+        "habitaciones": "4",
+        "banos": "2",
+        "contacto": "https://kubics.es/agente/david-febles/"
+    },
+    {
+        "img": "",
+        "precio": "80.000",
         "direccion": "Calle X<br> Y",
         "m2": "120 ",
         "habitaciones": "4",
@@ -46,7 +190,43 @@
     },
     {
         "img": "./assets/img/Vista-de-Santa-Cruz.png",
-        "precio": "12000",
+        "precio": "80.000",
+        "direccion": "Calle X<br> Y",
+        "m2": "120 ",
+        "habitaciones": "4",
+        "banos": "2",
+        "contacto": "https://kubics.es/agente/david-febles/"
+    },
+    {
+        "img": "./assets/img/Vista-de-San-Cristobal-Laguna.png",
+        "precio": "80.000",
+        "direccion": "Calle X<br> Y",
+        "m2": "120 ",
+        "habitaciones": "4",
+        "banos": "2",
+        "contacto": "https://kubics.es/agente/david-febles/"
+    },
+    {
+        "img": "./assets/img/vistas-al-puerto-de-la-cruz.png",
+        "precio": "80.000",
+        "direccion": "Calle X<br> Y",
+        "m2": "120 ",
+        "habitaciones": "4",
+        "banos": "2",
+        "contacto": "https://kubics.es/agente/david-febles/"
+    },
+    {
+        "img": "./assets/img/vistas-de-la-orotava.png",
+        "precio": "80.000",
+        "direccion": "Calle X<br> Y",
+        "m2": "120 ",
+        "habitaciones": "4",
+        "banos": "2",
+        "contacto": "https://kubics.es/agente/david-febles/"
+    },
+    {
+        "img": "",
+        "precio": "80.000",
         "direccion": "Calle X<br> Y",
         "m2": "120 ",
         "habitaciones": "4",
@@ -55,7 +235,43 @@
     },
     {
         "img": "./assets/img/Vista-de-Santa-Cruz.png",
-        "precio": "12000",
+        "precio": "80.000",
+        "direccion": "Calle X<br> Y",
+        "m2": "120 ",
+        "habitaciones": "4",
+        "banos": "2",
+        "contacto": "https://kubics.es/agente/david-febles/"
+    },
+    {
+        "img": "./assets/img/Vista-de-San-Cristobal-Laguna.png",
+        "precio": "80.000",
+        "direccion": "Calle X<br> Y",
+        "m2": "120 ",
+        "habitaciones": "4",
+        "banos": "2",
+        "contacto": "https://kubics.es/agente/david-febles/"
+    },
+    {
+        "img": "./assets/img/vistas-al-puerto-de-la-cruz.png",
+        "precio": "80.000",
+        "direccion": "Calle X<br> Y",
+        "m2": "120 ",
+        "habitaciones": "4",
+        "banos": "2",
+        "contacto": "https://kubics.es/agente/david-febles/"
+    },
+    {
+        "img": "./assets/img/vistas-de-la-orotava.png",
+        "precio": "80.000",
+        "direccion": "Calle X<br> Y",
+        "m2": "120 ",
+        "habitaciones": "4",
+        "banos": "2",
+        "contacto": "https://kubics.es/agente/david-febles/"
+    },
+    {
+        "img": "",
+        "precio": "80.000",
         "direccion": "Calle X<br> Y",
         "m2": "120 ",
         "habitaciones": "4",
@@ -64,7 +280,43 @@
     },
     {
         "img": "./assets/img/Vista-de-Santa-Cruz.png",
-        "precio": "12000",
+        "precio": "80.000",
+        "direccion": "Calle X<br> Y",
+        "m2": "120 ",
+        "habitaciones": "4",
+        "banos": "2",
+        "contacto": "https://kubics.es/agente/david-febles/"
+    },
+    {
+        "img": "./assets/img/Vista-de-San-Cristobal-Laguna.png",
+        "precio": "80.000",
+        "direccion": "Calle X<br> Y",
+        "m2": "120 ",
+        "habitaciones": "4",
+        "banos": "2",
+        "contacto": "https://kubics.es/agente/david-febles/"
+    },
+    {
+        "img": "./assets/img/vistas-al-puerto-de-la-cruz.png",
+        "precio": "80.000",
+        "direccion": "Calle X<br> Y",
+        "m2": "120 ",
+        "habitaciones": "4",
+        "banos": "2",
+        "contacto": "https://kubics.es/agente/david-febles/"
+    },
+    {
+        "img": "./assets/img/vistas-de-la-orotava.png",
+        "precio": "80.000",
+        "direccion": "Calle X<br> Y",
+        "m2": "120 ",
+        "habitaciones": "4",
+        "banos": "2",
+        "contacto": "https://kubics.es/agente/david-febles/"
+    },
+    {
+        "img": "",
+        "precio": "80.000",
         "direccion": "Calle X<br> Y",
         "m2": "120 ",
         "habitaciones": "4",
@@ -73,7 +325,43 @@
     },
     {
         "img": "./assets/img/Vista-de-Santa-Cruz.png",
-        "precio": "12000",
+        "precio": "80.000",
+        "direccion": "Calle X<br> Y",
+        "m2": "120 ",
+        "habitaciones": "4",
+        "banos": "2",
+        "contacto": "https://kubics.es/agente/david-febles/"
+    },
+    {
+        "img": "./assets/img/Vista-de-San-Cristobal-Laguna.png",
+        "precio": "80.000",
+        "direccion": "Calle X<br> Y",
+        "m2": "120 ",
+        "habitaciones": "4",
+        "banos": "2",
+        "contacto": "https://kubics.es/agente/david-febles/"
+    },
+    {
+        "img": "./assets/img/vistas-al-puerto-de-la-cruz.png",
+        "precio": "80.000",
+        "direccion": "Calle X<br> Y",
+        "m2": "120 ",
+        "habitaciones": "4",
+        "banos": "2",
+        "contacto": "https://kubics.es/agente/david-febles/"
+    },
+    {
+        "img": "./assets/img/vistas-de-la-orotava.png",
+        "precio": "80.000",
+        "direccion": "Calle X<br> Y",
+        "m2": "120 ",
+        "habitaciones": "4",
+        "banos": "2",
+        "contacto": "https://kubics.es/agente/david-febles/"
+    },
+    {
+        "img": "",
+        "precio": "80.000",
         "direccion": "Calle X<br> Y",
         "m2": "120 ",
         "habitaciones": "4",
@@ -82,7 +370,43 @@
     },
     {
         "img": "./assets/img/Vista-de-Santa-Cruz.png",
-        "precio": "12000",
+        "precio": "80.000",
+        "direccion": "Calle X<br> Y",
+        "m2": "120 ",
+        "habitaciones": "4",
+        "banos": "2",
+        "contacto": "https://kubics.es/agente/david-febles/"
+    },
+    {
+        "img": "./assets/img/Vista-de-San-Cristobal-Laguna.png",
+        "precio": "80.000",
+        "direccion": "Calle X<br> Y",
+        "m2": "120 ",
+        "habitaciones": "4",
+        "banos": "2",
+        "contacto": "https://kubics.es/agente/david-febles/"
+    },
+    {
+        "img": "./assets/img/vistas-al-puerto-de-la-cruz.png",
+        "precio": "80.000",
+        "direccion": "Calle X<br> Y",
+        "m2": "120 ",
+        "habitaciones": "4",
+        "banos": "2",
+        "contacto": "https://kubics.es/agente/david-febles/"
+    },
+    {
+        "img": "./assets/img/vistas-de-la-orotava.png",
+        "precio": "80.000",
+        "direccion": "Calle X<br> Y",
+        "m2": "120 ",
+        "habitaciones": "4",
+        "banos": "2",
+        "contacto": "https://kubics.es/agente/david-febles/"
+    },
+    {
+        "img": "",
+        "precio": "80.000",
         "direccion": "Calle X<br> Y",
         "m2": "120 ",
         "habitaciones": "4",
@@ -91,7 +415,43 @@
     },
     {
         "img": "./assets/img/Vista-de-Santa-Cruz.png",
-        "precio": "12000",
+        "precio": "80.000",
+        "direccion": "Calle X<br> Y",
+        "m2": "120 ",
+        "habitaciones": "4",
+        "banos": "2",
+        "contacto": "https://kubics.es/agente/david-febles/"
+    },
+    {
+        "img": "./assets/img/Vista-de-San-Cristobal-Laguna.png",
+        "precio": "80.000",
+        "direccion": "Calle X<br> Y",
+        "m2": "120 ",
+        "habitaciones": "4",
+        "banos": "2",
+        "contacto": "https://kubics.es/agente/david-febles/"
+    },
+    {
+        "img": "./assets/img/vistas-al-puerto-de-la-cruz.png",
+        "precio": "80.000",
+        "direccion": "Calle X<br> Y",
+        "m2": "120 ",
+        "habitaciones": "4",
+        "banos": "2",
+        "contacto": "https://kubics.es/agente/david-febles/"
+    },
+    {
+        "img": "./assets/img/vistas-de-la-orotava.png",
+        "precio": "80.000",
+        "direccion": "Calle X<br> Y",
+        "m2": "120 ",
+        "habitaciones": "4",
+        "banos": "2",
+        "contacto": "https://kubics.es/agente/david-febles/"
+    },
+    {
+        "img": "",
+        "precio": "80.000",
         "direccion": "Calle X<br> Y",
         "m2": "120 ",
         "habitaciones": "4",
@@ -100,7 +460,43 @@
     },
     {
         "img": "./assets/img/Vista-de-Santa-Cruz.png",
-        "precio": "12000",
+        "precio": "80.000",
+        "direccion": "Calle X<br> Y",
+        "m2": "120 ",
+        "habitaciones": "4",
+        "banos": "2",
+        "contacto": "https://kubics.es/agente/david-febles/"
+    },
+    {
+        "img": "./assets/img/Vista-de-San-Cristobal-Laguna.png",
+        "precio": "80.000",
+        "direccion": "Calle X<br> Y",
+        "m2": "120 ",
+        "habitaciones": "4",
+        "banos": "2",
+        "contacto": "https://kubics.es/agente/david-febles/"
+    },
+    {
+        "img": "./assets/img/vistas-al-puerto-de-la-cruz.png",
+        "precio": "80.000",
+        "direccion": "Calle X<br> Y",
+        "m2": "120 ",
+        "habitaciones": "4",
+        "banos": "2",
+        "contacto": "https://kubics.es/agente/david-febles/"
+    },
+    {
+        "img": "./assets/img/vistas-de-la-orotava.png",
+        "precio": "80.000",
+        "direccion": "Calle X<br> Y",
+        "m2": "120 ",
+        "habitaciones": "4",
+        "banos": "2",
+        "contacto": "https://kubics.es/agente/david-febles/"
+    },
+    {
+        "img": "",
+        "precio": "80.000",
         "direccion": "Calle X<br> Y",
         "m2": "120 ",
         "habitaciones": "4",
@@ -109,25 +505,7 @@
     },
     {
         "img": "./assets/img/Vista-de-Santa-Cruz.png",
-        "precio": "12000",
-        "direccion": "Calle X<br> Y",
-        "m2": "120 ",
-        "habitaciones": "4",
-        "banos": "2",
-        "contacto": "https://kubics.es/agente/david-febles/"
-    },
-    {
-        "img": "./assets/img/Vista-de-Santa-Cruz.png",
-        "precio": "12000",
-        "direccion": "Calle X<br> Y",
-        "m2": "120 ",
-        "habitaciones": "4",
-        "banos": "2",
-        "contacto": "https://kubics.es/agente/david-febles/"
-    },
-    {
-        "img": "./assets/img/Vista-de-Santa-Cruz.png",
-        "precio": "12000",
+        "precio": "80.000",
         "direccion": "Calle X<br> Y",
         "m2": "120 ",
         "habitaciones": "4",
@@ -136,133 +514,7 @@
     },
     {
         "img": "./assets/img/Vista-de-San-Cristobal-Laguna.png",
-        "precio": "12000",
-        "direccion": "Calle X<br> Y",
-        "m2": "120 ",
-        "habitaciones": "4",
-        "banos": "2",
-        "contacto": "https://kubics.es/agente/david-febles/"
-    },
-    {
-        "img": "./assets/img/Vista-de-San-Cristobal-Laguna.png",
-        "precio": "12000",
-        "direccion": "Calle X<br> Y",
-        "m2": "120 ",
-        "habitaciones": "4",
-        "banos": "2",
-        "contacto": "https://kubics.es/agente/david-febles/"
-    },
-    {
-        "img": "./assets/img/Vista-de-San-Cristobal-Laguna.png",
-        "precio": "12000",
-        "direccion": "Calle X<br> Y",
-        "m2": "120 ",
-        "habitaciones": "4",
-        "banos": "2",
-        "contacto": "https://kubics.es/agente/david-febles/"
-    },
-    {
-        "img": "./assets/img/Vista-de-San-Cristobal-Laguna.png",
-        "precio": "12000",
-        "direccion": "Calle X<br> Y",
-        "m2": "120 ",
-        "habitaciones": "4",
-        "banos": "2",
-        "contacto": "https://kubics.es/agente/david-febles/"
-    },
-    {
-        "img": "./assets/img/Vista-de-San-Cristobal-Laguna.png",
-        "precio": "12000",
-        "direccion": "Calle X<br> Y",
-        "m2": "120 ",
-        "habitaciones": "4",
-        "banos": "2",
-        "contacto": "https://kubics.es/agente/david-febles/"
-    },
-    {
-        "img": "./assets/img/Vista-de-San-Cristobal-Laguna.png",
-        "precio": "12000",
-        "direccion": "Calle X<br> Y",
-        "m2": "120 ",
-        "habitaciones": "4",
-        "banos": "2",
-        "contacto": "https://kubics.es/agente/david-febles/"
-    },
-    {
-        "img": "./assets/img/Vista-de-San-Cristobal-Laguna.png",
-        "precio": "12000",
-        "direccion": "Calle X<br> Y",
-        "m2": "120 ",
-        "habitaciones": "4",
-        "banos": "2",
-        "contacto": "https://kubics.es/agente/david-febles/"
-    },
-    {
-        "img": "./assets/img/Vista-de-San-Cristobal-Laguna.png",
-        "precio": "12000",
-        "direccion": "Calle X<br> Y",
-        "m2": "120 ",
-        "habitaciones": "4",
-        "banos": "2",
-        "contacto": "https://kubics.es/agente/david-febles/"
-    },
-    {
-        "img": "./assets/img/Vista-de-San-Cristobal-Laguna.png",
-        "precio": "12000",
-        "direccion": "Calle X<br> Y",
-        "m2": "120 ",
-        "habitaciones": "4",
-        "banos": "2",
-        "contacto": "https://kubics.es/agente/david-febles/"
-    },
-    {
-        "img": "./assets/img/Vista-de-San-Cristobal-Laguna.png",
-        "precio": "12000",
-        "direccion": "Calle X<br> Y",
-        "m2": "120 ",
-        "habitaciones": "4",
-        "banos": "2",
-        "contacto": "https://kubics.es/agente/david-febles/"
-    },
-    {
-        "img": "./assets/img/Vista-de-San-Cristobal-Laguna.png",
-        "precio": "12000",
-        "direccion": "Calle X<br> Y",
-        "m2": "120 ",
-        "habitaciones": "4",
-        "banos": "2",
-        "contacto": "https://kubics.es/agente/david-febles/"
-    },
-    {
-        "img": "./assets/img/Vista-de-San-Cristobal-Laguna.png",
-        "precio": "12000",
-        "direccion": "Calle X<br> Y",
-        "m2": "120 ",
-        "habitaciones": "4",
-        "banos": "2",
-        "contacto": "https://kubics.es/agente/david-febles/"
-    },
-    {
-        "img": "./assets/img/Vista-de-San-Cristobal-Laguna.png",
-        "precio": "12000",
-        "direccion": "Calle X<br> Y",
-        "m2": "120 ",
-        "habitaciones": "4",
-        "banos": "2",
-        "contacto": "https://kubics.es/agente/david-febles/"
-    },
-    {
-        "img": "./assets/img/Vista-de-San-Cristobal-Laguna.png",
-        "precio": "12000",
-        "direccion": "Calle X<br> Y",
-        "m2": "120 ",
-        "habitaciones": "4",
-        "banos": "2",
-        "contacto": "https://kubics.es/agente/david-febles/"
-    },
-    {
-        "img": "./assets/img/Vista-de-San-Cristobal-Laguna.png",
-        "precio": "12000",
+        "precio": "80.000",
         "direccion": "Calle X<br> Y",
         "m2": "120 ",
         "habitaciones": "4",
@@ -271,133 +523,7 @@
     },
     {
         "img": "./assets/img/vistas-al-puerto-de-la-cruz.png",
-        "precio": "12000",
-        "direccion": "Calle X<br> Y",
-        "m2": "120 ",
-        "habitaciones": "4",
-        "banos": "2",
-        "contacto": "https://kubics.es/agente/david-febles/"
-    },
-    {
-        "img": "./assets/img/vistas-al-puerto-de-la-cruz.png",
-        "precio": "12000",
-        "direccion": "Calle X<br> Y",
-        "m2": "120 ",
-        "habitaciones": "4",
-        "banos": "2",
-        "contacto": "https://kubics.es/agente/david-febles/"
-    },
-    {
-        "img": "./assets/img/vistas-al-puerto-de-la-cruz.png",
-        "precio": "12000",
-        "direccion": "Calle X<br> Y",
-        "m2": "120 ",
-        "habitaciones": "4",
-        "banos": "2",
-        "contacto": "https://kubics.es/agente/david-febles/"
-    },
-    {
-        "img": "./assets/img/vistas-al-puerto-de-la-cruz.png",
-        "precio": "12000",
-        "direccion": "Calle X<br> Y",
-        "m2": "120 ",
-        "habitaciones": "4",
-        "banos": "2",
-        "contacto": "https://kubics.es/agente/david-febles/"
-    },
-    {
-        "img": "./assets/img/vistas-al-puerto-de-la-cruz.png",
-        "precio": "12000",
-        "direccion": "Calle X<br> Y",
-        "m2": "120 ",
-        "habitaciones": "4",
-        "banos": "2",
-        "contacto": "https://kubics.es/agente/david-febles/"
-    },
-    {
-        "img": "./assets/img/vistas-al-puerto-de-la-cruz.png",
-        "precio": "12000",
-        "direccion": "Calle X<br> Y",
-        "m2": "120 ",
-        "habitaciones": "4",
-        "banos": "2",
-        "contacto": "https://kubics.es/agente/david-febles/"
-    },
-    {
-        "img": "./assets/img/vistas-al-puerto-de-la-cruz.png",
-        "precio": "12000",
-        "direccion": "Calle X<br> Y",
-        "m2": "120 ",
-        "habitaciones": "4",
-        "banos": "2",
-        "contacto": "https://kubics.es/agente/david-febles/"
-    },
-    {
-        "img": "./assets/img/vistas-al-puerto-de-la-cruz.png",
-        "precio": "12000",
-        "direccion": "Calle X<br> Y",
-        "m2": "120 ",
-        "habitaciones": "4",
-        "banos": "2",
-        "contacto": "https://kubics.es/agente/david-febles/"
-    },
-    {
-        "img": "./assets/img/vistas-al-puerto-de-la-cruz.png",
-        "precio": "12000",
-        "direccion": "Calle X<br> Y",
-        "m2": "120 ",
-        "habitaciones": "4",
-        "banos": "2",
-        "contacto": "https://kubics.es/agente/david-febles/"
-    },
-    {
-        "img": "./assets/img/vistas-al-puerto-de-la-cruz.png",
-        "precio": "12000",
-        "direccion": "Calle X<br> Y",
-        "m2": "120 ",
-        "habitaciones": "4",
-        "banos": "2",
-        "contacto": "https://kubics.es/agente/david-febles/"
-    },
-    {
-        "img": "./assets/img/vistas-al-puerto-de-la-cruz.png",
-        "precio": "12000",
-        "direccion": "Calle X<br> Y",
-        "m2": "120 ",
-        "habitaciones": "4",
-        "banos": "2",
-        "contacto": "https://kubics.es/agente/david-febles/"
-    },
-    {
-        "img": "./assets/img/vistas-al-puerto-de-la-cruz.png",
-        "precio": "12000",
-        "direccion": "Calle X<br> Y",
-        "m2": "120 ",
-        "habitaciones": "4",
-        "banos": "2",
-        "contacto": "https://kubics.es/agente/david-febles/"
-    },
-    {
-        "img": "./assets/img/vistas-al-puerto-de-la-cruz.png",
-        "precio": "12000",
-        "direccion": "Calle X<br> Y",
-        "m2": "120 ",
-        "habitaciones": "4",
-        "banos": "2",
-        "contacto": "https://kubics.es/agente/david-febles/"
-    },
-    {
-        "img": "./assets/img/vistas-al-puerto-de-la-cruz.png",
-        "precio": "12000",
-        "direccion": "Calle X<br> Y",
-        "m2": "120 ",
-        "habitaciones": "4",
-        "banos": "2",
-        "contacto": "https://kubics.es/agente/david-febles/"
-    },
-    {
-        "img": "./assets/img/vistas-al-puerto-de-la-cruz.png",
-        "precio": "12000",
+        "precio": "80.000",
         "direccion": "Calle X<br> Y",
         "m2": "120 ",
         "habitaciones": "4",
@@ -406,138 +532,11 @@
     },
     {
         "img": "./assets/img/vistas-de-la-orotava.png",
-        "precio": "12000",
-        "direccion": "Calle X<br> Y",
-        "m2": "120 ",
-        "habitaciones": "4",
-        "banos": "2",
-        "contacto": "https://kubics.es/agente/david-febles/"
-    },
-    {
-        "img": "./assets/img/vistas-de-la-orotava.png",
-        "precio": "12000",
-        "direccion": "Calle X<br> Y",
-        "m2": "120 ",
-        "habitaciones": "4",
-        "banos": "2",
-        "contacto": "https://kubics.es/agente/david-febles/"
-    },
-    {
-        "img": "./assets/img/vistas-de-la-orotava.png",
-        "precio": "12000",
-        "direccion": "Calle X<br> Y",
-        "m2": "120 ",
-        "habitaciones": "4",
-        "banos": "2",
-        "contacto": "https://kubics.es/agente/david-febles/"
-    },
-    {
-        "img": "./assets/img/vistas-de-la-orotava.png",
-        "precio": "12000",
-        "direccion": "Calle X<br> Y",
-        "m2": "120 ",
-        "habitaciones": "4",
-        "banos": "2",
-        "contacto": "https://kubics.es/agente/david-febles/"
-    },
-    {
-        "img": "./assets/img/vistas-de-la-orotava.png",
-        "precio": "12000",
-        "direccion": "Calle X<br> Y",
-        "m2": "120 ",
-        "habitaciones": "4",
-        "banos": "2",
-        "contacto": "https://kubics.es/agente/david-febles/"
-    },
-    {
-        "img": "./assets/img/vistas-de-la-orotava.png",
-        "precio": "12000",
-        "direccion": "Calle X<br> Y",
-        "m2": "120 ",
-        "habitaciones": "4",
-        "banos": "2",
-        "contacto": "https://kubics.es/agente/david-febles/"
-    },
-    {
-        "img": "./assets/img/vistas-de-la-orotava.png",
-        "precio": "12000",
-        "direccion": "Calle X<br> Y",
-        "m2": "120 ",
-        "habitaciones": "4",
-        "banos": "2",
-        "contacto": "https://kubics.es/agente/david-febles/"
-    },
-    {
-        "img": "./assets/img/vistas-de-la-orotava.png",
-        "precio": "12000",
-        "direccion": "Calle X<br> Y",
-        "m2": "120 ",
-        "habitaciones": "4",
-        "banos": "2",
-        "contacto": "https://kubics.es/agente/david-febles/"
-    },
-    {
-        "img": "./assets/img/vistas-de-la-orotava.png",
-        "precio": "12000",
-        "direccion": "Calle X<br> Y",
-        "m2": "120 ",
-        "habitaciones": "4",
-        "banos": "2",
-        "contacto": "https://kubics.es/agente/david-febles/"
-    },
-    {
-        "img": "./assets/img/vistas-de-la-orotava.png",
-        "precio": "12000",
-        "direccion": "Calle X<br> Y",
-        "m2": "120 ",
-        "habitaciones": "4",
-        "banos": "2",
-        "contacto": "https://kubics.es/agente/david-febles/"
-    },
-    {
-        "img": "./assets/img/vistas-de-la-orotava.png",
-        "precio": "12000",
-        "direccion": "Calle X<br> Y",
-        "m2": "120 ",
-        "habitaciones": "4",
-        "banos": "2",
-        "contacto": "https://kubics.es/agente/david-febles/"
-    },
-    {
-        "img": "./assets/img/vistas-de-la-orotava.png",
-        "precio": "12000",
-        "direccion": "Calle X<br> Y",
-        "m2": "120 ",
-        "habitaciones": "4",
-        "banos": "2",
-        "contacto": "https://kubics.es/agente/david-febles/"
-    },
-    {
-        "img": "./assets/img/vistas-de-la-orotava.png",
-        "precio": "12000",
-        "direccion": "Calle X<br> Y",
-        "m2": "120 ",
-        "habitaciones": "4",
-        "banos": "2",
-        "contacto": "https://kubics.es/agente/david-febles/"
-    },
-    {
-        "img": "./assets/img/vistas-de-la-orotava.png",
-        "precio": "12000",
-        "direccion": "Calle X<br> Y",
-        "m2": "120 ",
-        "habitaciones": "4",
-        "banos": "2",
-        "contacto": "https://kubics.es/agente/david-febles/"
-    },
-    {
-        "img": "./assets/img/vistas-de-la-orotava.png",
-        "precio": "12000",
+        "precio": "80.000",
         "direccion": "Calle X<br> Y",
         "m2": "120 ",
         "habitaciones": "4",
         "banos": "2",
         "contacto": "https://kubics.es/agente/david-febles/"
     }
-
 ]
