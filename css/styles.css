@@ -130,6 +130,9 @@ a.link_header {
     left: 15px;
     top: 40px;
   }
+  .nav li a {
+    background-color: white !important;
+  }
 }
 
 ul,
